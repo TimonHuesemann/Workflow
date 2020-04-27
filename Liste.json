@@ -1,0 +1,47 @@
+[
+  {
+    "Stunde": "1",
+    "Lehrer": "TestLehrer",
+    "Fach": "Informatik",
+    "Ereignis": "EVA"
+  },
+  {
+    "Stunde": "1",
+    "Lehrer": "TestLehrer",
+    "Fach": "Philosophie",
+    "Ereignis": "Raumvertretung"
+  },
+  {
+    "Stunde": "4",
+    "Lehrer": "TestLehrer",
+    "Fach": "Informatik",
+    "Ereignis": "EVA"
+  },
+  {
+    "Stunde": "5",
+    "Lehrer": "HeimaterdeStadtLandFluss",
+    "Fach": "Naturwissenschaften",
+    "Ereignis": "Entfall"
+  }
+  ,
+  {
+    "Stunde": "5",
+    "Lehrer": "HeimaterdeStadtLandFluss",
+    "Fach": "Naturwissenschaften",
+    "Ereignis": "Entfall"
+  }
+  ,
+  {
+    "Stunde": "5",
+    "Lehrer": "HeimaterdeStadtLandFluss",
+    "Fach": "Naturwissenschaften",
+    "Ereignis": "Entfall"
+  }
+  ,
+  {
+    "Stunde": "5",
+    "Lehrer": "HeimaterdeStadtLandFluss",
+    "Fach": "Naturwissenschaften",
+    "Ereignis": "Entfall"
+  }
+]

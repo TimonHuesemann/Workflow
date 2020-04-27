@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Workflow. - Vertretungen</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<div class="content">
+<header>
+
+  <h1>Vertretungsplan:</h1>
+
+</header>
+
+
+<body>
+
+    <input type="button" class="button" onclick="CreateTableFromJSON('Liste.json')" value="Aktualisieren" />
+    <input type="button" class="button" onclick="empty()" value="Zuklappen" />
+    <p id="showData"></p>
+    <span class="date"><script> document.write(new Date().toLocaleDateString()); </script></span>
+
+</body>
+
+<script src="Skripte.js"></script>
+
+</div>
+</html>
